@@ -1,5 +1,5 @@
-# interview-javascript-template
-Project template for pairing interviews in Javascript
+# interview-typescript-template
+Project template for pairing interviews in Typescript
 
 For more information about our interview setup, please refer to the following documentation:
 https://github.com/sourceallies/interviews/blob/main/docs/interview-environment.md
