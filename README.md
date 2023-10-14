@@ -1,4 +1,6 @@
-# interview-typescript-template
+# This repository is now deprecated.  Please see the [interviews](https://github.com/sourceallies/interviews) repository instead.
+
+## interview-typescript-template
 Project template for pairing interviews in Typescript
 
 For more information about our interview setup, please refer to the following documentation:
